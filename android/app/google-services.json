@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "440497001135",
+    "project_id": "tiketinnusa",
+    "storage_bucket": "tiketinnusa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440497001135:android:66246617f5c1a3a27bba5a",
+        "android_client_info": {
+          "package_name": "com.example.tiketinnusa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440497001135-qughlickvs5l341kd06sc081jpjnp0fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmos6NFv1HoBFQQD87S95zKb9We0brqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440497001135-qughlickvs5l341kd06sc081jpjnp0fr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440497001135-oi59lgck85c0t7nba4e1pdmk25husmq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tiketinnusa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
